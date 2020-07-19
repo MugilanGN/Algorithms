@@ -42,12 +42,3 @@ while len(sorted_diffs) > 0:
     del sorted_diffs[max_index2]
 
 print(total)
-    
-    
-    
-    
-    
-    
-    
-    
-
